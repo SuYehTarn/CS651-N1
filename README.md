@@ -3,7 +3,7 @@ The Project N1 for CS651. This project is implemented with MEAN framwork without
 
 ## Heroku Web App Demonstration
 
-[Heroku Web App url](https://cs651-n1-ysu19.herokuapp.com)
+[Heroku Web App url](https://cs651-n1-ysu19.herokuapp.com/db)
 
 Check the Heroku web app is running.
 ![image](https://github.com/SuYehTarn/N1/blob/main/imgs/3.png)
